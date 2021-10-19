@@ -258,9 +258,9 @@
   "userIcon": ":sunglasses:"
   } ,
    {
-  "name": "DLrickstevens",
+  "name": "Rick Stevens",
   "allyCode": "673197841",
-  "tagIdOnDrop": "",
+  "tagIdOnDrop": "384500822152708096",
   "userIcon": ":sunglasses:"
   } ,
    {
