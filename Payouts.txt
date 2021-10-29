@@ -20,7 +20,7 @@
    {
   "name": "Motor City Maniac",
   "allyCode": "777193334",
-  "tagIdOnDrop": "",
+  "tagIdOnDrop": "391038748416016386",
   "userIcon": ":sunglasses:"
   } ,
    {
@@ -395,7 +395,13 @@
   "tagIdOnDrop": "",
   "userIcon": ":sunglasses:"
   } ,
- {
+   {
+  "name": "DontcheatmebroCK",
+  "allyCode": "997692499",
+  "tagIdOnDrop": "",
+  "userIcon": ":sunglasses:"
+  } ,
+  {
   "name": "Luis Yavok",
   "allyCode": "295714293",
   "tagIdOnDrop": "",
@@ -626,12 +632,6 @@
    {
   "name": "Byrane Davin",
   "allyCode": "487392346",
-  "tagIdOnDrop": "",
-  "userIcon": ":clown:"
-  } ,
-   {
-  "name": "DontcheatmebroCK",
-  "allyCode": "997692499",
   "tagIdOnDrop": "",
   "userIcon": ":clown:"
   } ,
