@@ -664,5 +664,17 @@
       "allyCode":"645786384",
       "tagIdOnDrop":"",
       "userIcon":":clown:"
+   },
+   {
+      "name":"Byton Snowdog",
+      "allyCode":"656997348",
+      "tagIdOnDrop":"",
+      "userIcon":":clown:"
+   },
+   {
+      "name":"MINI Battistone",
+      "allyCode":"256497564",
+      "tagIdOnDrop":"",
+      "userIcon":":clown:"
    }
 ]
