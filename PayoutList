@@ -395,6 +395,12 @@
   "tagIdOnDrop": "",
   "userIcon": ":sunglasses:"
   } ,
+  {
+  "name": "darkgrosjeje",
+  "allyCode": "975166891",
+  "tagIdOnDrop": "",
+  "userIcon": ":sunglasses:"
+  } ,
  {
   "name": "Luis Yavok",
   "allyCode": "295714293",
@@ -428,12 +434,6 @@
    {
   "name": "Blasterjack",
   "allyCode": "936955215",
-  "tagIdOnDrop": "",
-  "userIcon": ":clown:"
-  } ,
-   {
-  "name": "darkgrosjeje",
-  "allyCode": "975166891",
   "tagIdOnDrop": "",
   "userIcon": ":clown:"
   } ,
