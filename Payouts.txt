@@ -408,6 +408,12 @@
       "userIcon":":sunglasses:"
    },
    {
+      "name":"Soldier011",
+      "allyCode":"428661476",
+      "tagIdOnDrop":"",
+      "userIcon":":sunglasses:"
+   },
+   {
       "name":"Luis Yavok",
       "allyCode":"295714293",
       "tagIdOnDrop":"",
@@ -602,12 +608,6 @@
    {
       "name":"MINI Flubo",
       "allyCode":"562599898",
-      "tagIdOnDrop":"",
-      "userIcon":":clown:"
-   },
-   {
-      "name":"Soldier011",
-      "allyCode":"428661476",
       "tagIdOnDrop":"",
       "userIcon":":clown:"
    },
