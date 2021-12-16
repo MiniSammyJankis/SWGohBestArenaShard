@@ -2,7 +2,7 @@
    {
       "name":"FEARTHEDARKSIDE",
       "allyCode":"976736912",
-      "tagIdOnDrop":"378731016241676291",
+      "tagIdOnDrop":"",
       "userIcon":":sunglasses:"
    },
    {
