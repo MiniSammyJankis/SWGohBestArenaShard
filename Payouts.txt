@@ -38,7 +38,7 @@
    {
       "name":"Shadow597",
       "allyCode":"685316151",
-      "tagIdOnDrop":"347621494941024256",
+      "tagIdOnDrop":"",
       "userIcon":":sunglasses:"
    },
    {
